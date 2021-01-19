@@ -1,48 +1,37 @@
-⛔️Star ⛔️Fork ⛔️Share
-
-Please read the [Documentation](https://www.notion.so/divineengine/b4161dac0412486e9a6f1637a1b2d572) before using this profile.
-
-[Telegram Channel](https://t.me/DivineEngine)
 
 <details>
   <summary>Surge</summary>
 
-  Surge is a network toolbox for power users and a high-performance HTTP/SOCKS5 proxy server.
+  资源: [网站](https://nssurge.com/) / [手册](http://manual.nssurge.com/) / [FAQ](https://nssurge.com/support) / [社区](https://community.nssurge.com/)
 
-  Resources: [Website](https://nssurge.com/) / [Manual](http://manual.nssurge.com/) / [FAQ](https://nssurge.com/support) / [Community](https://community.nssurge.com/)
+  配置文件(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf)
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf)
-
-  More: [Ruleset](https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset) / [Module](https://github.com/DivineEngine/Profiles/tree/master/Surge/Module)
+  更多: [Ruleset](https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset) / [Module](https://github.com/DivineEngine/Profiles/tree/master/Surge/Module)
 </details>
 
 <details>
   <summary>Quantumult X</summary>
 
-  Quantumult X is a powerful network tool for web developers and users who need to customize their proxies.
+  资源: [Github](https://github.com/crossutility/Quantumult-X)
 
-  Resources: [Github](https://github.com/crossutility/Quantumult-X)
+  配置文件: [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Inbound.conf)
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Inbound.conf)
-
-  More: [Filter Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) / [Rewrite Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite)
+  更多: [Filter Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) / [Rewrite Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite)
 </details>
 
 <details>
   <summary>Clash</summary>
 
-  A rule-based tunnel in Go.
+  配置文件: [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Outbound.yaml) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Inbound.yaml)
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Outbound.yaml) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Inbound.yaml)
+  资源: [官方 Wiki](https://github.com/Dreamacro/clash/wiki) / [非官方 Clash Wiki](https://lancellc.gitbook.io/clash/)
 
-  Resources: [official Wiki](https://github.com/Dreamacro/clash/wiki) / [Unofficial Clash Wiki](https://lancellc.gitbook.io/clash/)
-
-  More: [RuleSet](https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet)
+  更多: [RuleSet](https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet)
 </details>
 
 
 
-**Special thanks to**
+**特别感谢**
 
 - [scomper / Surge](https://github.com/scomper/Surge)
 - [lhie1 / Rules](https://github.com/lhie1/Rules)
